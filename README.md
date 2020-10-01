@@ -1,2 +1,2 @@
 # django_basics
-Just for getting better familiar with Django framework
+To get more familiar with django framework.
